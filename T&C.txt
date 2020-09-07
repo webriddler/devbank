@@ -1,0 +1,43 @@
+Dev Bank Terms and Conditions :
+
+Terms of Services
+•	You should have account in the Dev Bank for enjoying E-Banking feature which is only done physically.
+•	You should have a strong password otherwise the password cracking can be happen, where Bank is not responsible, to avoid this
+	have a Strong Password mixture of number+letters+special characters,
+	change your password once in three months like your toothbrush. 
+•	Never Share your Password or Pin with anyone.
+
+
+
+Security Terms
+•	Only Database or System knows your privacy and it will never ever share with anyone.
+•	But Banker has some access of your privacy for making your Operations smooth and fast.
+•	If you are using our Services then by default you are agreed with our terms and conditions (which you can see clicking on about system > Terms Policy)
+
+
+Bank/System Terms
+•	Charges Terms:
+?	No Charges is to be applied for using E-Banking
+?	But Your account  should have minimum
+?	Rs. 100 in case of Saving Account.
+?	Rs. 1000 in case of Current Account.
+?	Service Charge is to deductible ONLY IN SAVING Accounts at rate of 0.5% on deductible amount.
+?	Minimum Balance Defaulting Charges (MBDC) is 5% for BOTH SAVING AND CURRENT A/Cs on deductible amount.
+
+•	Deposit & Withdrawal Terms:
+?	Minimum Depositing amount is Rs. 200
+?	Minimum withdrawn or transferable amount is Rs. 100
+
+•	Block Transactions Terms:
+?	Block Transactions i.e. your blocked Cheque is/are out of work.
+?	You can Block Back your Cheque easily
+
+•	System Operations Terms:
+?	When you newly use your system (in your first Start) then only can specify the Path of your folder (i.e. Dev Bank Repository Folder) otherwise the default option is of D-Drive.
+
+
+
+
+Customer’s obligations
+•	The customer has an obligation to maintain secrecy in regard to User ID & Password registered with the Bank. The bank presupposes that login using valid User ID and Password is a valid session initiated by none other than the customer.
+•	The customer will not attempt or permit others to attempt accessing the Dev Bank through any unlawful means.
